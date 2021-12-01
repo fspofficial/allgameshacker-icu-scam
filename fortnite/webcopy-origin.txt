@@ -1,0 +1,120 @@
+Uri: https://allgameshacker.icu/fortnite
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\fortnite.html
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/Pru33qjShpZSmG3z6VYwnRJtnKITppOI_IvcXXDNrsc.woff2
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\s\roboto\v15\Pru33qjShpZSmG3z6VYwnRJtnKITppOI_IvcXXDNrsc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\s\roboto\v15\Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/oOeFwZNlrTefzLYmlVV1UBJtnKITppOI_IvcXXDNrsc.woff2
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\s\roboto\v15\oOeFwZNlrTefzLYmlVV1UBJtnKITppOI_IvcXXDNrsc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\s\roboto\v15\RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/160654902908d19382d13fc6cc4d0328e4d84491b6.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\160654902908d19382d13fc6cc4d0328e4d84491b6.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/16065477944c50af0438af3e56a012ee489fbfa465.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\16065477944c50af0438af3e56a012ee489fbfa465.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/16065490885eaa27b6d0e8f2179caf0b4dad61502f.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\16065490885eaa27b6d0e8f2179caf0b4dad61502f.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/160654908816d25e78ee55b4a0bae79f6886727cd9.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\160654908816d25e78ee55b4a0bae79f6886727cd9.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606549089b0c369873bd32e5442dd85dca43e3d64.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606549089b0c369873bd32e5442dd85dca43e3d64.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/160654908961a7e003a67d08d512156643de8ecfc0.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\160654908961a7e003a67d08d512156643de8ecfc0.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/16065490870acfeababa356d27d6e34197604c3209.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\16065490870acfeababa356d27d6e34197604c3209.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606549087a1ae712a02f37b2bf07f8235a7f15cc2.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606549087a1ae712a02f37b2bf07f8235a7f15cc2.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606549087ba2a29697f174412479c80eb4ab77c41.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606549087ba2a29697f174412479c80eb4ab77c41.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606549088a43ed29c99c57a9e11a6c1883f17247b.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606549088a43ed29c99c57a9e11a6c1883f17247b.jpg
+Content Type: image/jpg
+
+Uri: https://fonts.googleapis.com/css?family=Anton
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Goldman
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css-1.css
+Content Type: text/css
+
+Uri: https://browser.sentry-cdn.com/6.4.1/bundle.min.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\6.4.1\bundle.min.js
+Content Type: application/javascript
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606549681f611774b7803454b5c2826898a60ade5.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606549681f611774b7803454b5c2826898a60ade5.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/16065477942f839a5327de29e66dc66fe2920f472f.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\16065477942f839a5327de29e66dc66fe2920f472f.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606549774a423df82dc403a954778a2fb2dc63ffc.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606549774a423df82dc403a954778a2fb2dc63ffc.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/16065477956bf3c78471adcad907b99ecf02e3fe44.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\16065477956bf3c78471adcad907b99ecf02e3fe44.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/16065477959c21fdc023c8c086d44642260316b8e2.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\16065477959c21fdc023c8c086d44642260316b8e2.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606547795c0af81693eb30509325ff7a176f84035.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606547795c0af81693eb30509325ff7a176f84035.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606547796aa97bfd1d29ffb269b62bc7c961202f5.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606547796aa97bfd1d29ffb269b62bc7c961202f5.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606547796fc27cf812d94b7ffd4f2df0534c0de19.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606547796fc27cf812d94b7ffd4f2df0534c0de19.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1606549666523b2166f158529002556e773e887baf.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1606549666523b2166f158529002556e773e887baf.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/160654779431bbf96cc8b1d488a5b7d0b40896c1bc.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\160654779431bbf96cc8b1d488a5b7d0b40896c1bc.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\ajax\libs\jquery\2.2.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://d13nu0oomnx5ti.cloudfront.net/21bc850.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\21bc850.js
+Content Type: application/javascript
+

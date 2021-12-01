@@ -1,0 +1,84 @@
+Uri: https://allgameshacker.icu/Apexlegends/
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\Apexlegends\index.htm
+Content Type: text/html
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/15499148833577c0284a0590697f782669b597c43a.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\15499148833577c0284a0590697f782669b597c43a.jpg
+Content Type: image/jpg
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1551259582ef1c432638ec5f35b677a20680d20fdb.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1551259582ef1c432638ec5f35b677a20680d20fdb.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/155125961521f5a44f3efcaf381560a2cc16c7f4e7.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\155125961521f5a44f3efcaf381560a2cc16c7f4e7.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/15512609181d7b27d39a7b203920d01144c2be127b.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\15512609181d7b27d39a7b203920d01144c2be127b.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:700
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css-2.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/landing_pages/fa/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\landing_pages\fa\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/landing_pages/jqueryui/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\landing_pages\jqueryui\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/content_lockers/css_front.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\content_lockers\css_front.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/content_lockers/noty-2.3.8/demo/animate.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\content_lockers\noty-2.3.8\demo\animate.css
+Content Type: text/css
+
+Uri: https://browser.sentry-cdn.com/6.4.1/bundle.min.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\6.4.1\bundle.min.js
+Content Type: application/javascript
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/15499149208d0528fd6d8d0f778c4f8603a0288b61.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\15499149208d0528fd6d8d0f778c4f8603a0288b61.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1551262178d96eee596cdc7abc742666aa5d8f221e.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1551262178d96eee596cdc7abc742666aa5d8f221e.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1551263188e781ec0b788c885562b767167f8c2d2a.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1551263188e781ec0b788c885562b767167f8c2d2a.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\ajax\libs\jquery\1\jquery.js
+Content Type: text/javascript
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/landing_pages/jqueryui/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\landing_pages\jqueryui\jquery-ui.min.js
+Content Type: application/x-javascript
+
+Uri: https://d13nu0oomnx5ti.cloudfront.net/3716c55.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\3716c55.js
+Content Type: application/javascript
+
+Uri: https://cldoffers.net/public/external/t.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\public\external\t.js
+Content Type: application/javascript
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/content_lockers/noty-2.3.8/js/noty/packaged/jquery.noty.packaged.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\content_lockers\noty-2.3.8\js\noty\packaged\jquery.noty.packaged.js
+Content Type: application/x-javascript
+
