@@ -1,0 +1,80 @@
+Uri: https://allgameshacker.icu/nba2k21
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\nba2k21.html
+Content Type: text/html
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/15996663978bf31d8abffcac0ae438e44343a29a2d.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\15996663978bf31d8abffcac0ae438e44343a29a2d.jpg
+Content Type: image/jpg
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:700
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css-2.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/landing_pages/fa/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\landing_pages\fa\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/landing_pages/jqueryui/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\landing_pages\jqueryui\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/content_lockers/css_front.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\content_lockers\css_front.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/content_lockers/noty-2.3.8/demo/animate.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\content_lockers\noty-2.3.8\demo\animate.css
+Content Type: text/css
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1585047457c0d9c516c07417aace1b8217ef4c808c.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1585047457c0d9c516c07417aace1b8217ef4c808c.jpg
+Content Type: image/jpg
+
+Uri: https://browser.sentry-cdn.com/6.4.1/bundle.min.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\6.4.1\bundle.min.js
+Content Type: application/javascript
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/159966827715b8af28f2defbe512463464836a6956.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\159966827715b8af28f2defbe512463464836a6956.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1585038413613f53a4c16f7967d535c12625d746f7.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1585038413613f53a4c16f7967d535c12625d746f7.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/158504798251829513a7087024bb1010ecff97b17c.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\158504798251829513a7087024bb1010ecff97b17c.png
+Content Type: image/png
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/uploads/1587635657cac589eaed903940eca5f33dbdfbf2e0.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\uploads\1587635657cac589eaed903940eca5f33dbdfbf2e0.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\ajax\libs\jquery\1\jquery.js
+Content Type: text/javascript
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/landing_pages/jqueryui/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\landing_pages\jqueryui\jquery-ui.min.js
+Content Type: application/x-javascript
+
+Uri: https://d13nu0oomnx5ti.cloudfront.net/d7d5499.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\d7d5499.js
+Content Type: application/javascript
+
+Uri: https://cldoffers.net/public/external/t.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\public\external\t.js
+Content Type: application/javascript
+
+Uri: https://d13pxqgp3ixdbh.cloudfront.net/assets/content_lockers/noty-2.3.8/js/noty/packaged/jquery.noty.packaged.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\assets\content_lockers\noty-2.3.8\js\noty\packaged\jquery.noty.packaged.js
+Content Type: application/x-javascript
+

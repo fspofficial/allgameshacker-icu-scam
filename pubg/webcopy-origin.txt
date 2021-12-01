@@ -1,0 +1,28 @@
+Uri: https://allgameshacker.icu/PUBG
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\PUBG.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/gh/iDevMore/BuildLPs/PUBG/1/favicon.ico
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\gh\iDevMore\BuildLPs\PUBG\1\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://cdn.jsdelivr.net/gh/iDevMore/COPURO/PUBG/1/5.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\gh\iDevMore\COPURO\PUBG\1\5.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/gh/iDevMore/COPURO/PUBG/1/5.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\gh\iDevMore\COPURO\PUBG\1\5.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/css/all.css
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\releases\v5.8.2\css\all.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-00000-0
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://d13nu0oomnx5ti.cloudfront.net/emGPax.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\emGPax.js
+Content Type: application/javascript
+

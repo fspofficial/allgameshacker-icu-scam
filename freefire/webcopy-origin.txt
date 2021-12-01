@@ -1,0 +1,48 @@
+Uri: https://allgameshacker.icu/Freefire/
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\Freefire\index.htm
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/Pru33qjShpZSmG3z6VYwnRJtnKITppOI_IvcXXDNrsc.woff2
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\s\roboto\v15\Pru33qjShpZSmG3z6VYwnRJtnKITppOI_IvcXXDNrsc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\s\roboto\v15\Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/oOeFwZNlrTefzLYmlVV1UBJtnKITppOI_IvcXXDNrsc.woff2
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\s\roboto\v15\oOeFwZNlrTefzLYmlVV1UBJtnKITppOI_IvcXXDNrsc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\s\roboto\v15\RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\css2.css
+Content Type: text/css
+
+Uri: https://i.imgur.com/zViC5iF.jpg
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\zViC5iF.jpg
+Content Type: image/jpeg
+
+Uri: https://browser.sentry-cdn.com/6.4.1/bundle.min.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\6.4.1\bundle.min.js
+Content Type: application/javascript
+
+Uri: https://i.imgur.com/mz294rQ.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\mz294rQ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/jnp90Sx.png
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\jnp90Sx.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\ajax\libs\jquery\2.2.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://d13nu0oomnx5ti.cloudfront.net/26a0f8d.js
+File Name: C:\Downloaded Web Sites\allgameshacker.icu\26a0f8d.js
+Content Type: application/javascript
+
